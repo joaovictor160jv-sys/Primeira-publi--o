@@ -25,6 +25,7 @@ Estrutura de landing page com seções organizadas
 O projeto foi desenvolvido para se adaptar a diferentes dispositivos, garantindo uma boa experiência tanto no celular quanto no computador.
 
 🖼️ Preview
+<br>
 💻 Desktop
 <img src="https://github.com/joaovictor160jv-sys/Easy-Shop/blob/main/Assets/Desktop.png.png?raw=true">
 📱 Mobile
